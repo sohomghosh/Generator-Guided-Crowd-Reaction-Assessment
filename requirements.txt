@@ -1,0 +1,8 @@
+
+numpy==1.22.4
+pandas==1.5.3
+torch==2.0.1+cu118
+transformers==4.29.2
+sentence-transformers==2.2.2
+emoji==2.4.0
+anthropic==0.2.10
