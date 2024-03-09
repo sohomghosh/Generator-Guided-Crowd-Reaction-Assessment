@@ -8,7 +8,7 @@ Step-3: Execute the notebook `GGEA_Training_Script.ipynb` following the instruct
 
 ## For scoring pre-trained GGEA
 Step-1: Install the packages mentioned in the `requirements.txt` file.<br>
-Step-2: Execute the notebook `Scoring_GGEA.ipynb` following the instructions present in it. This notebook will automatically download the model artefacts. It has been developed & tested using Google Colab.<br>
+Step-2: Execute the notebook `Scoring_GGEA.ipynb` following the instructions present in it. This notebook will automatically download the model artefacts from [HugingFace](https://huggingface.co/sohomghosh/ggea-generator-guided-crowd-reaction-assessment). It has been developed & tested using Google Colab.<br>
 
 ```bibtex 
 @INPROCEEDINGS{ghosh-wtal-www2024,
