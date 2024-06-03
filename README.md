@@ -20,6 +20,6 @@ Step-2: Execute the notebook `Scoring_GGEA.ipynb` following the instructions pre
   volume={},
   number={},
   pages={},
-  url={}
+  url={https://dl.acm.org/doi/10.1145/3589335.3651512}
 }
 ```
